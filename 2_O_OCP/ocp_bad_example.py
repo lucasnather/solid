@@ -13,6 +13,7 @@ tipo de exame, uma nova classe seja adicionada, implementando métodos de uma in
 
 
 class AprovaExame:
+    
     def aprovar_solicitacao_exame(self, exame):
 
         if exame_sangue.tipo == "sangue":
